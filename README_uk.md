@@ -156,7 +156,7 @@ n_eff ~17 — найслабше число обґрунтування.
 | core/svi_jw.py | raw ↔ jump-wings | 15 |
 | core/env_flags.py | явна обробка прапорців середовища | 13 |
 | data/deribit_chain.py | знімок ланцюга → SVI по експіраціях | 58 |
-| analytics/surface_report.py | константні тенори, RR/BF, DVOL | 19 |
+| analytics/surface_report.py | константні тенори, RR/BF, DVOL | 18 |
 | analytics/smile_report.py | HTML-звіт смайлів | 20 |
 | analytics/rv_intraday.py, rv_rolling.py | 5-хв RV, HAR-RV, ковзне вікно | 19 / 27 |
 | analytics/anomaly_detect.py | рангова детекція + дебаунс | 43 |
