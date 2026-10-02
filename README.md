@@ -164,7 +164,7 @@ as an open issue.
 | core/svi_jw.py | raw ↔ jump-wings | 15 |
 | core/env_flags.py | explicit environment-flag handling | 13 |
 | data/deribit_chain.py | chain snapshot → SVI per expiry | 58 |
-| analytics/surface_report.py | constant tenors, RR/BF, DVOL | 19 |
+| analytics/surface_report.py | constant tenors, RR/BF, DVOL | 18 |
 | analytics/smile_report.py | HTML smile report | 20 |
 | analytics/rv_intraday.py, rv_rolling.py | 5-min RV, HAR-RV, rolling window | 19 / 27 |
 | analytics/anomaly_detect.py | rank-based detection + debounce | 43 |
