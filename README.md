@@ -140,6 +140,8 @@ market-making strategies; other market regimes (5 days is one regime).
 
 **Article:** [The reversion is real, the money is not](articles/01_real_reversion_not_tradable.md) — the full story of hypothesis A.
 
+**Case studies:** [two more research projects](case-studies/README.md) — funding-rate arbitrage and crypto momentum, 13 more hypotheses tested.
+
 ## A control at work: the USD convention bug
 
 The negative control of the DEFI evaluator runs Deribit quotes through
