@@ -6,7 +6,7 @@ before the run, with controls, and with a numeric distance to breakeven.
 
 | project | market | hypotheses | key finding |
 |---|---|---|---|
-| [Vol-Edge](../README.md) | Deribit and Derive options, BTC/ETH | 2 | spread reversion is real (n_eff ~17), but fees of ~1.05 vp eat ~0.55 vp of effect |
+| [Vol-Edge](../README.md) ([article](../articles/01_real_reversion_not_tradable.md)) | Deribit and Derive options, BTC/ETH | 2 | ...
 | [Funding-Edge](funding-edge.md) | perpetuals on 5 exchanges, incl. equity perps | 9 | measured costs 3× the assumed ones; selection leakage measured with a placebo population |
 | [Trend-Edge](trend-edge.md) | Binance spot, altcoins 2020–2026 | 4 | best in-sample window (t −3.38) gave t 0.40 out of sample |
 
