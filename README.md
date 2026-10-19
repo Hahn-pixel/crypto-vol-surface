@@ -215,6 +215,6 @@ chmod +x deploy/*.sh
 
 ## Author
 
-Dmytro Govor ([https://www.upwork.com/freelancers/~01a9f4efec75b5538a]). Available for fixed-price asynchronous projects:
+Dmytro Govor ([Upwork profile](https://www.upwork.com/freelancers/~01a9f4efec75b5538a)). Available for fixed-price asynchronous projects:
 volatility surfaces, Greeks, derivatives data pipelines, backtest
 audits. Written communication only.
